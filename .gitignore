@@ -1,0 +1,6 @@
+/image.png
+/jenins_server/
+/tf-aws-eks/.terraform.lock.hcl
+/tf-aws-ec2/.terraform.lock.hcl
+/tf-aws-eks/.terraform/
+/tf-aws-ec2/
